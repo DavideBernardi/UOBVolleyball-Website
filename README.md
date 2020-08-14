@@ -8,8 +8,10 @@ Visit http(s)://localhost:8081/ to view the website.
 
 Admin login details:
 
+```
 email: davide@gmail.com
 password: davide
+```
 
 ## Built With 
 [Bootsrap](https://github.com/topics/bootstrap) | [Handlebars](https://github.com/handlebars-lang/handlebars.js)  | [Express](https://github.com/topics/express)  | [SQLite](https://www.sqlite.org/index.html)
